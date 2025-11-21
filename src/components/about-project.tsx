@@ -1,6 +1,5 @@
 import { ImageWithFallback } from "./figma/ImageWithFallback";
 import { Users, GraduationCap, Heart } from "lucide-react";
-import newtonPaivaImage from "figma:asset/83c515a1968b764628894dd113d9eb52d0574d6f.png";
 
 export function AboutProject() {
   return (
@@ -54,7 +53,7 @@ export function AboutProject() {
           <div className="relative">
             <div className="absolute -inset-4 bg-gradient-to-r from-blue-400 to-cyan-400 rounded-3xl opacity-20 blur-2xl" />
             <img
-              src={newtonPaivaImage}
+              src="\83c515a1968b764628894dd113d9eb52d0574d6f.png"
               alt="Faculdade Newton Paiva Wyden"
               className="relative rounded-3xl shadow-2xl w-full h-[500px] object-cover"
             />

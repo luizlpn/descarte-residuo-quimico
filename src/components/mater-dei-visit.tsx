@@ -26,7 +26,7 @@ export function MaterDeiVisit() {
           <div className="relative group">
             <div className="absolute -inset-2 bg-gradient-to-r from-cyan-400 to-blue-400 rounded-3xl opacity-20 blur-xl group-hover:opacity-30 transition-opacity" />
             <ImageWithFallback
-              src="src\assets\c942f710-603f-4575-bad5-d0eb57919be7.jpg"
+              src="\c942f710-603f-4575-bad5-d0eb57919be7.jpg"
               alt="Interior Hospitalar"
               className="relative rounded-3xl shadow-xl w-full h-[300px] object-cover"
             />
@@ -35,7 +35,7 @@ export function MaterDeiVisit() {
           <div className="relative group">
             <div className="absolute -inset-2 bg-gradient-to-r from-blue-400 to-cyan-400 rounded-3xl opacity-20 blur-xl group-hover:opacity-30 transition-opacity" />
             <ImageWithFallback
-              src="src\assets\2b33c3b0-1a14-4786-aa10-803fc6c21a36.jpg"
+              src="\2b33c3b0-1a14-4786-aa10-803fc6c21a36.jpg"
               alt="Corredor Hospitalar"
               className="relative rounded-3xl shadow-xl w-full h-[300px] object-cover"
             />

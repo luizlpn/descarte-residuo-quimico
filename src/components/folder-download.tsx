@@ -26,7 +26,7 @@ export function FolderDownload() {
           <div className="relative group">
             <div className="absolute -inset-2 bg-gradient-to-r from-cyan-400 to-blue-400 rounded-3xl opacity-20 blur-xl group-hover:opacity-30 transition-opacity" />
             <ImageWithFallback
-              src="src\assets\3fa3c419-5cc1-4510-8ddc-63e670648c5d.jpg"
+              src="/3fa3c419-5cc1-4510-8ddc-63e670648c5d.jpg"
               alt="Interior Hospitalar"
               className="relative rounded-3xl shadow-xl w-full h-[300px] object-cover"
             />
@@ -35,7 +35,7 @@ export function FolderDownload() {
           <div className="relative group">
             <div className="absolute -inset-2 bg-gradient-to-r from-blue-400 to-cyan-400 rounded-3xl opacity-20 blur-xl group-hover:opacity-30 transition-opacity" />
             <ImageWithFallback
-              src="src\assets\df166a69-f134-4fae-aef7-150174493fcc.jpg"
+              src="/df166a69-f134-4fae-aef7-150174493fcc.jpg"
               alt="Corredor Hospitalar"
               className="relative rounded-3xl shadow-xl w-full h-[300px] object-cover"
             />
@@ -47,7 +47,7 @@ export function FolderDownload() {
           <div className="relative group">
             <div className="absolute -inset-2 bg-gradient-to-r from-cyan-400 to-blue-400 rounded-3xl opacity-20 blur-xl group-hover:opacity-30 transition-opacity" />
             <ImageWithFallback
-              src="src\assets\8745f44c-e48e-4b7b-b2e1-0d5549a1271b.jpg"
+              src="\8745f44c-e48e-4b7b-b2e1-0d5549a1271b.jpg"
               alt="Interior Hospitalar"
               className="relative rounded-3xl shadow-xl w-full h-[300px] object-cover"
             />
@@ -56,7 +56,7 @@ export function FolderDownload() {
           <div className="relative group">
             <div className="absolute -inset-2 bg-gradient-to-r from-blue-400 to-cyan-400 rounded-3xl opacity-20 blur-xl group-hover:opacity-30 transition-opacity" />
             <ImageWithFallback
-              src="src\assets\5e00e5b0-3215-4ec3-9ba2-e874d78545d0.jpg"
+              src="\5e00e5b0-3215-4ec3-9ba2-e874d78545d0.jpg"
               alt="Corredor Hospitalar"
               className="relative rounded-3xl shadow-xl w-full h-[300px] object-cover"
             />
@@ -70,7 +70,7 @@ export function FolderDownload() {
           <div className="relative order-2 lg:order-1">
             <div className="absolute -inset-4 bg-gradient-to-r from-indigo-400 to-purple-400 rounded-3xl opacity-20 blur-2xl" />
             <ImageWithFallback
-              src="src\assets\5a79b220-b389-4a01-98d4-206d047f49bb.jpg"
+              src="\5a79b220-b389-4a01-98d4-206d047f49bb.jpg"
               alt="Prévia do Folder"
               className="relative rounded-3xl shadow-2xl w-full h-[500px] object-cover"
             />

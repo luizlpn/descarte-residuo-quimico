@@ -28,7 +28,7 @@ export function ChemicalWaste() {
           <div className="relative order-2 lg:order-1">
             <div className="absolute -inset-4 bg-gradient-to-r from-yellow-400 to-red-400 rounded-3xl opacity-20 blur-2xl" />
             <ImageWithFallback
-              src="src\assets\ilustracao-grafica-de-sinal-de-circulo-amarelo-de-risco-biologico_53876-8057.png"
+              src="\ilustracao-grafica-de-sinal-de-circulo-amarelo-de-risco-biologico_53876-8057.png"
               alt="Símbolo de Risco Químico"
               className="relative rounded-3xl shadow-2xl w-full h-[450px] object-cover"
             />

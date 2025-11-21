@@ -50,7 +50,7 @@ export function DisposalSteps() {
           <div className="relative">
             <div className="absolute -inset-4 bg-gradient-to-r from-green-400 to-teal-400 rounded-3xl opacity-20 blur-2xl" />
             <ImageWithFallback
-              src="src\assets\MG_2424.jpg"
+              src="\MG_2424.jpg"
               alt="Descarte em Bombona"
               className="relative rounded-3xl shadow-2xl w-full h-[400px] object-cover"
             />
